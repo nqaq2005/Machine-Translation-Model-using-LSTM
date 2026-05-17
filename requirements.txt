@@ -1,0 +1,5 @@
+datasets==4.2.0
+evaluate==0.4.6
+fasttext==0.9.3
+torch==2.8.0
+tqdm==4.67.1
